@@ -11,7 +11,7 @@ namespace PruevasTest1
             // Inicializa el cliente HTTP con la URL base de tu API real
             _client = new HttpClient
             {
-                BaseAddress = new Uri("http://localhost:5218")
+                BaseAddress = new Uri("https://test1-4n8k.onrender.com/")
             };
         }
 

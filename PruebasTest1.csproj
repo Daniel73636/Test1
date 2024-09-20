@@ -25,8 +25,4 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\test1\test1.csproj" />
-  </ItemGroup>
-
 </Project>
